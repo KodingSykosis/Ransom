@@ -10,7 +10,7 @@
 (function ($) {
     $.widget("KodingSykosis.BloodDrip", {
         options: {
-            image: 'http://cdn.kodingsykosis.com/images/blooddri1.png',
+            image: '/img/blooddrip1.png',
             delay: 5000,
             duration: 5000,
             opacity: 0.93

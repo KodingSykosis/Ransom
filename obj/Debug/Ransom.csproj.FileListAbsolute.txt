@@ -1,0 +1,5 @@
+C:\Users\godwh_000\GitHub\Ransom\bin\Ransom.dll
+C:\Users\godwh_000\GitHub\Ransom\bin\Ransom.pdb
+C:\Users\godwh_000\GitHub\Ransom\obj\Debug\Ransom.csprojResolveAssemblyReference.cache
+C:\Users\godwh_000\GitHub\Ransom\obj\Debug\Ransom.dll
+C:\Users\godwh_000\GitHub\Ransom\obj\Debug\Ransom.pdb
